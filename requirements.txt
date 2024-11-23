@@ -1,0 +1,6 @@
+streamlit
+pillow
+streamlit
+google-generativeai
+pyttsx3
+pytesseract
